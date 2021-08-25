@@ -1,0 +1,53 @@
+.square{
+    border: 1px solid black;
+}
+.first_square{
+    width: 600px;
+    height: 400px;
+}
+.up_square{
+    border: 1px solid blue;
+    height: 50%;  
+    width: 80px; 
+    text-align: center;
+    margin: 0 auto;
+    background-color: black;
+    border-radius: 20px;
+}
+
+.down_square{
+    border: 1px solid black;
+    height: 49%;
+    width: 15px;
+    margin: 0 auto;
+}
+
+.btn{
+    margin: 5px;
+    border-radius: 50%;
+    color: white;
+    height: 50px;
+    width: 50px;
+}
+
+.btn1{
+    background-color: red;
+}
+.btn2{
+    background-color: orange;
+}
+.btn3{
+    background-color: green;
+}
+
+.line{
+    border: 1px solid black;
+    height: 19%;
+}
+
+.line.one {
+    background-color: black;
+}
+.two{
+    background-color: yellow;
+}
